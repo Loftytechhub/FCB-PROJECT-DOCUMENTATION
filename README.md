@@ -7,7 +7,15 @@ This a data of student that sat for the promotional examination with their respe
 - Google
 - SQL
 
-## Tools Used
+## Tools Used 
+---
 - Ms Excel for data clearing [Download here](www.google.com)
 - Python
 - Power Bi
+
+~~~
+Google Query sheet
+
+SELECT * FROM TABLE 1
+WHERE CONDITION = NET
+~~~
