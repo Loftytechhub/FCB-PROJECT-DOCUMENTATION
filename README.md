@@ -15,7 +15,6 @@ This a data of student that sat for the promotional examination with their respe
 
 ~~~
 Google Query sheet
-
 SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 ~~~
